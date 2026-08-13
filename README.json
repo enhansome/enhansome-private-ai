@@ -1,0 +1,1498 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "llama.cpp",
+          "description": "Portable, CPU/GPU-friendly LLM inference, good for GPU + CPU hybrid inference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:02:28Z",
+            "owner": "ggml-org",
+            "repo": "llama.cpp",
+            "stars": 123728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vLLM",
+          "description": "High-throughput, low-latency inference engine for LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:50:24Z",
+            "owner": "vllm-project",
+            "repo": "vllm",
+            "stars": 88923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cherry Studio",
+          "description": "Powerful and customizable cross-platform desktop app for LLM inference with built in web search, RAG, MCP support, and a quick assistant hotkey to summon your LLM from anywhere. Supports a wide variety of providers and OpenAI compatible endpoints for local inference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:12:11Z",
+            "owner": "CherryHQ",
+            "repo": "cherry-studio",
+            "stars": 50360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalAI",
+          "description": "Drop-in OpenAI-compatible API for local inference across text, image, audio, and embedding models, with no GPU required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:11:56Z",
+            "owner": "mudler",
+            "repo": "LocalAI",
+            "stars": 48416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exo",
+          "description": "Run your own AI cluster at home with everyday devices. Dynamic model partitioning across multiple devices like iPhones, Macs, and Linux machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T18:59:18Z",
+            "owner": "exo-explore",
+            "repo": "exo",
+            "stars": 46790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sglang",
+          "description": "Fast serving engine for LLMs and vision-language models, with RadixAttention prefix caching and a structured generation language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:07:15Z",
+            "owner": "sgl-project",
+            "repo": "sglang",
+            "stars": 31728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llamafile",
+          "description": "Distribute and run an entire LLM as a single executable file that works across six operating systems, with no install step.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T06:27:13Z",
+            "owner": "mozilla-ai",
+            "repo": "llamafile",
+            "stars": 25547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLC LLM",
+          "description": "Compiler and runtime that deploys LLMs natively to GPUs, phones, and browsers via machine learning compilation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T03:03:18Z",
+            "owner": "mlc-ai",
+            "repo": "mlc-llm",
+            "stars": 23057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KTransformers",
+          "description": "Optimized framework for running very large MoE models on limited hardware via GPU/CPU offloading and kernel injection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T10:45:46Z",
+            "owner": "kvcache-ai",
+            "repo": "ktransformers",
+            "stars": 19230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oMLX",
+          "description": "macOS-native MLX inference server with paged SSD KV caching and continuous batching. Serves LLM, VLM, embedding, and reranker models over OpenAI- and Anthropic-compatible endpoints for local coding agents on Apple Silicon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:00:26Z",
+            "owner": "jundot",
+            "repo": "omlx",
+            "stars": 18643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "text-generation-inference",
+          "description": "Optimized serving stack from Hugging Face.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-21T11:34:22Z",
+            "owner": "huggingface",
+            "repo": "text-generation-inference",
+            "stars": 10886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mlx-lm",
+          "description": "Fast, Apple Silicon-optimized LLM inference engine for running models locally and privately.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:01:18Z",
+            "owner": "ml-explore",
+            "repo": "mlx-lm",
+            "stars": 6585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llama-swap",
+          "description": "Model swapping for llama.cpp (or any local OpenAPI compatible server).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T03:27:58Z",
+            "owner": "mostlygeek",
+            "repo": "llama-swap",
+            "stars": 5341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ik_llama.cpp",
+          "description": "Fork of llama.cpp with bleeding edge feature implementations and quantization improvements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:21:30Z",
+            "owner": "ikawrakow",
+            "repo": "ik_llama.cpp",
+            "stars": 3027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RamaLama",
+          "description": "Runs models as OCI containers, pulling from registries you control — a good fit for air-gapped and enterprise workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:43:40Z",
+            "owner": "containers",
+            "repo": "ramalama",
+            "stars": 2998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tabbyAPI",
+          "description": "Official API server for running exllamav2 and exllamav3 models. Aims to be a friendly backend with high customizablity and an idiotmatic OAI compatible API for users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:47:50Z",
+            "owner": "theroyallab",
+            "repo": "tabbyAPI",
+            "stars": 1301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exllama3",
+          "description": "An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs. Use TabbyAPI for an API server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:56:57Z",
+            "owner": "turboderp-org",
+            "repo": "exllamav3",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YALS (Yet another llamacpp server)",
+          "description": "TabbyAPI's sister project, adapted for llama.cpp and GGUF models. Built from the ground up using libllama instead of wrapping llama-server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-28T16:02:16Z",
+            "owner": "theroyallab",
+            "repo": "YALS",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Inference Runtimes & Backends"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Triton Inference Server",
+          "description": "NVIDIA's multi-framework inference server, supporting TensorRT, PyTorch, ONNX, and vLLM backends behind one endpoint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:09:29Z",
+            "owner": "triton-inference-server",
+            "repo": "server",
+            "stars": 10916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xinference",
+          "description": "Serve and manage LLM, embedding, rerank, image, and audio models in one self-hosted cluster with an OpenAI-compatible API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:54:12Z",
+            "owner": "xorbitsai",
+            "repo": "inference",
+            "stars": 9491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seldon Core",
+          "description": "Kubernetes-native model deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-23T11:39:54Z",
+            "owner": "SeldonIO",
+            "repo": "seldon-core",
+            "stars": 4770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vLLM Production Stack",
+          "description": "End-to-end stack for deploying vLLM in production, including orchestration, monitoring, autoscaling, and best practices for private LLM serving.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:12:28Z",
+            "owner": "vllm-project",
+            "repo": "production-stack",
+            "stars": 2506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OME (Open Model Engine)",
+          "description": "Unified, open-source engine for serving, managing, and scaling LLMs and multimodal models privately. Supports sglang, vLLM, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:59:03Z",
+            "owner": "ome-projects",
+            "repo": "ome",
+            "stars": 491
+          }
+        }
+      ],
+      "title": "Model Management & Serving"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLaMA-Factory",
+          "description": "Unified fine-tuning for 100+ models with a web UI, covering SFT, DPO, PPO, and reward modelling on your own hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:20:42Z",
+            "owner": "hiyouga",
+            "repo": "LlamaFactory",
+            "stars": 74043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsloth",
+          "description": "Fine-tune and reinforcement-train LLMs 2x faster with substantially less VRAM, on a single local GPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:11:13Z",
+            "owner": "unslothai",
+            "repo": "unsloth",
+            "stars": 70686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEFT",
+          "description": "Parameter-efficient fine-tuning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:38:53Z",
+            "owner": "huggingface",
+            "repo": "peft",
+            "stars": 21539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRL",
+          "description": "Hugging Face's library for SFT, DPO, GRPO, and reward-model training on top of transformers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:32:46Z",
+            "owner": "huggingface",
+            "repo": "trl",
+            "stars": 19062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ms-swift",
+          "description": "Training and deployment toolkit covering 500+ LLMs and 200+ multimodal models, from PEFT through to quantized export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:35:25Z",
+            "owner": "modelscope",
+            "repo": "ms-swift",
+            "stars": 15137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Axolotl",
+          "description": "YAML-driven post-training framework covering full fine-tunes, LoRA, QLoRA, and multi-GPU sharding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:41:22Z",
+            "owner": "axolotl-ai-cloud",
+            "repo": "axolotl",
+            "stars": 12347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torchtune",
+          "description": "Native PyTorch library for fine-tuning and experimenting with LLMs, with readable single-file recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:49:19Z",
+            "owner": "meta-pytorch",
+            "repo": "torchtune",
+            "stars": 5799
+          }
+        }
+      ],
+      "title": "Fine-Tuning & Adapters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bitsandbytes",
+          "description": "8-bit and 4-bit quantization primitives that underpin QLoRA and much of the local fine-tuning ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:53:56Z",
+            "owner": "bitsandbytes-foundation",
+            "repo": "bitsandbytes",
+            "stars": 8414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-compressor",
+          "description": "Apply GPTQ, SmoothQuant, SparseGPT, and FP8/INT4 weight-activation quantization, exporting straight to vLLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:35:06Z",
+            "owner": "vllm-project",
+            "repo": "llm-compressor",
+            "stars": 3665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPTQModel",
+          "description": "Actively maintained GPTQ toolkit for producing and running 4-bit quantized models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:55:08Z",
+            "owner": "ModelCloud",
+            "repo": "GPTQModel",
+            "stars": 1225
+          }
+        }
+      ],
+      "title": "Quantization & Compression"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FAISS",
+          "description": "Facebook AI Similarity Search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:46:03Z",
+            "owner": "facebookresearch",
+            "repo": "faiss",
+            "stars": 40728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qdrant",
+          "description": "High-performance Vector Database and Vector Search Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:46:11Z",
+            "owner": "qdrant",
+            "repo": "qdrant",
+            "stars": 33946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgvector",
+          "description": "Vector similarity search inside PostgreSQL, keeping embeddings in the database you already self-host.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T06:08:24Z",
+            "owner": "pgvector",
+            "repo": "pgvector",
+            "stars": 22606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LanceDB",
+          "description": "Embedded, serverless vector database that stores vectors and metadata as files on your own disk or object store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:23:49Z",
+            "owner": "lancedb",
+            "repo": "lancedb",
+            "stars": 11140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "text-embeddings-inference",
+          "description": "Fast local serving for embedding and reranker models, so retrieval never leaves your network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-24T13:47:50Z",
+            "owner": "huggingface",
+            "repo": "text-embeddings-inference",
+            "stars": 4996
+          }
+        }
+      ],
+      "title": "Vector Databases & Embeddings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Langflow",
+          "description": "Visual workflow builder for creating and deploying AI-powered agents and workflows with built-in API servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:08:46Z",
+            "owner": "langflow-ai",
+            "repo": "langflow",
+            "stars": 153137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "Multi-agent framework for building collaborative AI systems with role-based agents that can work together on complex tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowise",
+          "description": "No-code LangChain UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:56:00Z",
+            "owner": "FlowiseAI",
+            "repo": "Flowise",
+            "stars": 55362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goose",
+          "description": "Local, extensible agent that runs on your machine and works against any LLM backend, including Ollama and other self-hosted endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:03:34Z",
+            "owner": "aaif-goose",
+            "repo": "goose",
+            "stars": 52738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aider",
+          "description": "Terminal-based pair programming agent that edits code in your local git repo, with support for local models via Ollama and OpenAI-compatible servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T14:02:20Z",
+            "owner": "Aider-AI",
+            "repo": "aider",
+            "stars": 48158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dspy",
+          "description": "Modular, open-source agent framework for building composable, private LLM applications and workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:41:42Z",
+            "owner": "stanfordnlp",
+            "repo": "dspy",
+            "stars": 37154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crush",
+          "description": "Privacy-first, open-source agentic coding and automation platform for local AI workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:57:28Z",
+            "owner": "charmbracelet",
+            "repo": "crush",
+            "stars": 27318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CUA",
+          "description": "enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T04:05:10Z",
+            "owner": "trycua",
+            "repo": "cua",
+            "stars": 21285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PydanticAI",
+          "description": "Python agent framework by the Pydantic team, model-agnostic with Ollama support for local deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:05:22Z",
+            "owner": "pydantic",
+            "repo": "pydantic-ai",
+            "stars": 19258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen-Agent",
+          "description": "Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T08:15:07Z",
+            "owner": "QwenLM",
+            "repo": "Qwen-Agent",
+            "stars": 16958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepCode",
+          "description": "Open agentic coding framework that turns papers and specs into working code (Paper2Code, Text2Web, Text2Backend), running against local Ollama or vLLM backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:57:44Z",
+            "owner": "HKUDS",
+            "repo": "DeepCode",
+            "stars": 16341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trae Agent",
+          "description": "Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T11:21:00Z",
+            "owner": "bytedance",
+            "repo": "trae-agent",
+            "stars": 12018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bytebot",
+          "description": "A desktop agent is an AI that has its own computer. Unlike browser-only agents or traditional RPA tools, Bytebot comes with a full virtual desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-09-12T19:35:46Z",
+            "owner": "bytebot-ai",
+            "repo": "bytebot",
+            "stars": 11086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AG2",
+          "description": "Open-source operating system for agentic AI with native Ollama support for local model deployment and multi-agent collaboration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:39:38Z",
+            "owner": "ag2ai",
+            "repo": "ag2",
+            "stars": 4855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agentgateway",
+          "description": "Gateway for managing and orchestrating AI agents with support for local deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:07:10Z",
+            "owner": "agentgateway",
+            "repo": "agentgateway",
+            "stars": 4333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skales",
+          "description": "Source-available (BSL 1.1) local-first desktop AI agent that runs fully on-device, offline via Ollama or with 15+ providers; your files never leave your machine, no cloud required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:25:58Z",
+            "owner": "skalesapp",
+            "repo": "skales",
+            "stars": 1626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MFS",
+          "description": "Exposes your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace for agents (// + semantic search); runs fully local with on-device ONNX embeddings on Milvus, no API key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T06:49:03Z",
+            "owner": "zilliztech",
+            "repo": "mfs",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "Agents & Orchestration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cline",
+          "description": "Privacy-first, open-source agentic coding platform for local AI workflows and automation (VS Code extension).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:46:30Z",
+            "owner": "cline",
+            "repo": "cline",
+            "stars": 66097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continue",
+          "description": "Open-source autocomplete and chat assistant for VS Code and JetBrains, configurable against Ollama, llama.cpp, vLLM, and other local endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:52:47Z",
+            "owner": "continuedev",
+            "repo": "continue",
+            "stars": 35463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabby",
+          "description": "Self-hosted AI coding assistant with its own inference server, offering a private alternative to hosted completion services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-30T20:38:02Z",
+            "owner": "TabbyML",
+            "repo": "tabby",
+            "stars": 33822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roo Code",
+          "description": "Privacy-first, open-source agentic coding platform for secure, local AI development (VS Code extension).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T18:08:47Z",
+            "owner": "RooCodeInc",
+            "repo": "Roo-Code",
+            "stars": 24348
+          }
+        }
+      ],
+      "title": "VS Code Plugins & Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Presidio",
+          "description": "Detect and de-identify PII in text and images before it ever reaches a model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:20:50Z",
+            "owner": "data-privacy-stack",
+            "repo": "presidio",
+            "stars": 10461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "garak",
+          "description": "LLM vulnerability scanner that probes local models for prompt injection, jailbreaks, and data leakage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:23:44Z",
+            "owner": "NVIDIA",
+            "repo": "garak",
+            "stars": 8786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeMo Guardrails",
+          "description": "Add programmable topical and safety rails to LLM applications, running alongside self-hosted models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:11:19Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 6932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Guard",
+          "description": "Input and output scanning toolkit covering prompt injection, PII, toxicity, and secrets leakage.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-08T23:58:40Z",
+            "owner": "protectai",
+            "repo": "llm-guard",
+            "stars": 3201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concrete",
+          "description": "Fully homomorphic encryption for AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-19T15:19:04Z",
+            "owner": "zama-ai",
+            "repo": "concrete",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFL",
+          "description": "Federated learning framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-21T16:41:42Z",
+            "owner": "securefederatedai",
+            "repo": "openfederatedlearning",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlindAI",
+          "description": "Confidential AI inference using TEEs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-19T15:35:39Z",
+            "owner": "mithril-security",
+            "repo": "blindai",
+            "stars": 511
+          }
+        }
+      ],
+      "title": "Privacy, Security & Governance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Langfuse",
+          "description": "Self-hostable LLM observability, tracing, prompt management, and evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:02:07Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 32999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promptfoo",
+          "description": "Local-first evaluation and red-teaming for prompts and models, runnable entirely offline in CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:55:59Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepEval",
+          "description": "Unit-testing framework for LLM outputs, with metrics that can run against locally hosted judge models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:02:48Z",
+            "owner": "confident-ai",
+            "repo": "deepeval",
+            "stars": 17563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lm-evaluation-harness",
+          "description": "The standard harness for benchmarking language models, supporting local vLLM and Hugging Face backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:24:39Z",
+            "owner": "EleutherAI",
+            "repo": "lm-evaluation-harness",
+            "stars": 13607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix",
+          "description": "Self-hosted tracing, evaluation, and experiment tracking for LLM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:52:22Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11023
+          }
+        }
+      ],
+      "title": "Observability & Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open WebUI",
+          "description": "Commonly recommended Web UI frontend which features built in search, web scrape, RAG, and optional user authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:13:48Z",
+            "owner": "open-webui",
+            "repo": "open-webui",
+            "stars": 148631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lobe Chat",
+          "description": "Modern self-hosted chat framework with plugin and multimodal support, deployable in one click against local backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:34:35Z",
+            "owner": "lobehub",
+            "repo": "lobehub",
+            "stars": 81621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "text-generation-webui",
+          "description": "Long-standing Gradio web UI for local text generation, supporting llama.cpp, ExLlama, and transformers backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T03:10:11Z",
+            "owner": "oobabooga",
+            "repo": "textgen",
+            "stars": 47542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreChat",
+          "description": "Enhanced web UI for LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:59:09Z",
+            "owner": "danny-avila",
+            "repo": "LibreChat",
+            "stars": 41971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chatbot UI",
+          "description": "Open-source ChatGPT clone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-03T00:38:07Z",
+            "owner": "mckaywrigley",
+            "repo": "chatbot-ui",
+            "stars": 33340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SillyTavern",
+          "description": "Self-hosted, highly customizable frontend for local models, with extensive character, prompt, and context management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T22:43:10Z",
+            "owner": "SillyTavern",
+            "repo": "SillyTavern",
+            "stars": 32023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Screenpipe",
+          "description": "24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. Fully offline with Ollama or any local LLM. MCP server for Claude.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:51:57Z",
+            "owner": "screenpipe",
+            "repo": "screenpipe",
+            "stars": 20920
+          }
+        }
+      ],
+      "title": "UI & Interaction Layers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AUTOMATIC1111 Stable Diffusion WebUI",
+          "description": "The most widely deployed self-hosted Stable Diffusion interface, with a large extension ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T07:00:53Z",
+            "owner": "AUTOMATIC1111",
+            "repo": "stable-diffusion-webui",
+            "stars": 164505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComfyUI",
+          "description": "Node-based interface and backend for diffusion models, running image, video, and audio pipelines entirely locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:01:34Z",
+            "owner": "Comfy-Org",
+            "repo": "ComfyUI",
+            "stars": 127131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InvokeAI",
+          "description": "Professional-grade local generative image toolkit with a unified canvas and workflow editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:27:19Z",
+            "owner": "invoke-ai",
+            "repo": "InvokeAI",
+            "stars": 27866
+          }
+        }
+      ],
+      "title": "Image & Video Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whisper",
+          "description": "The original open-weight speech recognition model, runnable fully offline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:18:29Z",
+            "owner": "openai",
+            "repo": "whisper",
+            "stars": 107184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper.cpp",
+          "description": "C++ port of OpenAI's Whisper automatic speech recognition model, optimized for local, CPU/GPU inference without internet connectivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T18:59:53Z",
+            "owner": "ggml-org",
+            "repo": "whisper.cpp",
+            "stars": 52856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhisperX",
+          "description": "Whisper with word-level timestamps, speaker diarization, and much faster batched transcription.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T08:30:07Z",
+            "owner": "m-bain",
+            "repo": "whisperX",
+            "stars": 23550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F5-TTS",
+          "description": "Local text-to-speech with voice cloning from a short reference sample.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T09:20:37Z",
+            "owner": "SWivid",
+            "repo": "F5-TTS",
+            "stars": 15115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RealtimeSTT",
+          "description": "Low-latency local speech-to-text with voice activity detection, for building private voice interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T20:03:56Z",
+            "owner": "KoljaB",
+            "repo": "RealtimeSTT",
+            "stars": 10054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speaches",
+          "description": "Self-hosted OpenAI-compatible server for transcription, translation, and speech generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:07:14Z",
+            "owner": "speaches-ai",
+            "repo": "speaches",
+            "stars": 3583
+          }
+        }
+      ],
+      "title": "Speech & Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MinerU",
+          "description": "High-quality PDF-to-Markdown and JSON extraction, including formulas and tables, for building private corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T10:08:01Z",
+            "owner": "opendatalab",
+            "repo": "MinerU",
+            "stars": 77484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docling",
+          "description": "Parse PDF, DOCX, PPTX, and HTML into structured formats for RAG and training, running entirely on your own hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:48:51Z",
+            "owner": "docling-project",
+            "repo": "docling",
+            "stars": 64681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marker",
+          "description": "Fast, accurate document-to-Markdown conversion across PDFs, images, and office formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T06:33:06Z",
+            "owner": "datalab-to",
+            "repo": "marker",
+            "stars": 38704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Label Studio",
+          "description": "Self-hosted data labelling platform for text, image, audio, and video annotation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:15:52Z",
+            "owner": "HumanSignal",
+            "repo": "label-studio",
+            "stars": 28038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unstructured",
+          "description": "Ingestion and preprocessing library for turning messy documents into model-ready chunks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T20:50:32Z",
+            "owner": "Unstructured-IO",
+            "repo": "unstructured",
+            "stars": 15306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argilla",
+          "description": "Collaborative tool for curating, annotating, and quality-checking datasets for fine-tuning and evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:20:05Z",
+            "owner": "argilla-io",
+            "repo": "argilla",
+            "stars": 5079
+          }
+        }
+      ],
+      "title": "Datasets & Data Prep"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLMs from Scratch",
+          "description": "Build a GPT-style model step by step in PyTorch, on your own machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T01:11:40Z",
+            "owner": "rasbt",
+            "repo": "LLMs-from-scratch",
+            "stars": 102541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Course",
+          "description": "Roadmap and notebooks covering LLM fundamentals, fine-tuning, quantization, and deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-05T13:09:26Z",
+            "owner": "mlabonne",
+            "repo": "llm-course",
+            "stars": 81635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML Engineering Open Book",
+          "description": "Field-tested notes on training and serving large models: hardware, parallelism, throughput, and debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:44:53Z",
+            "owner": "stas00",
+            "repo": "ml-engineering",
+            "stars": 18604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smol Course",
+          "description": "Hugging Face's practical course on aligning and fine-tuning small models that fit on local hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-26T10:33:20Z",
+            "owner": "huggingface",
+            "repo": "smol-course",
+            "stars": 6725
+          }
+        }
+      ],
+      "title": "Learning Resources & Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LiteLLM",
+          "description": "Self-hosted proxy exposing 100+ model backends — including Ollama, vLLM, and any OpenAI-compatible server — behind one API, with keys, budgets, routing, and logging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:08:11Z",
+            "owner": "BerriAI",
+            "repo": "litellm",
+            "stars": 56212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nexus",
+          "description": "Open-source AI router to aggregate Model Context Protocol (MCP) servers, intelligently route requests to the best LLMs, and provide security, governance, observability, and simplified architecture for private AI deployments. Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-16T20:50:37Z",
+            "owner": "Nexus-Router",
+            "repo": "nexus",
+            "stars": 434
+          }
+        }
+      ],
+      "title": "AI Routers & API Aggregators"
+    },
+    {
+      "description": "Contributions welcome! See Contributing",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Under CC0-1.0 license. see LICENSE",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:13.893Z",
+    "original_repository": "tdi/awesome-private-ai",
+    "original_repository_sha": "b27746c3dfbb422bb90333c621309f345c8a2d56",
+    "enhanced_repository": "enhansome/enhansome-private-ai",
+    "enhanced_repository_description": null,
+    "title": "Awesome Private AI with stars"
+  }
+}
