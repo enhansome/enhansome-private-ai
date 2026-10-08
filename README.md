@@ -31,23 +31,23 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Engines and frameworks to run LLMs, vision, and multimodal models locally.
 
-* [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 130,510 | 🐛 2,502 | 🌐 C++ | 📅 2026-10-06 - Portable, CPU/GPU-friendly LLM inference, good for GPU + CPU hybrid inference.
-* [vLLM](https://github.com/vllm-project/vllm) ⭐ 93,294 | 🐛 8,519 | 🌐 Python | 📅 2026-10-06 - High-throughput, low-latency inference engine for LLMs.
-* [Cherry Studio](https://github.com/CherryHQ/cherry-studio) ⭐ 52,401 | 🐛 1,744 | 🌐 TypeScript | 📅 2026-10-06 - Powerful and customizable cross-platform desktop app for LLM inference with built in web search, RAG, MCP support, and a quick assistant hotkey to summon your LLM from anywhere. Supports a wide variety of providers and OpenAI compatible endpoints for local inference.
-* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 49,415 | 🐛 176 | 🌐 Go | 📅 2026-10-06 - Drop-in OpenAI-compatible API for local inference across text, image, audio, and embedding models, with no GPU required.
-* [exo](https://github.com/exo-explore/exo) ⭐ 47,764 | 🐛 446 | 🌐 Python | 📅 2026-10-06 - Run your own AI cluster at home with everyday devices. Dynamic model partitioning across multiple devices like iPhones, Macs, and Linux machines.
-* [sglang](https://github.com/sgl-project/sglang) ⭐ 36,824 | 🐛 5,565 | 🌐 Python | 📅 2026-10-06 - Fast serving engine for LLMs and vision-language models, with RadixAttention prefix caching and a structured generation language.
-* [llamafile](https://github.com/Mozilla-Ocho/llamafile) ⭐ 26,183 | 🐛 215 | 🌐 C++ | 📅 2026-10-06 - Distribute and run an entire LLM as a single executable file that works across six operating systems, with no install step.
-* [MLC LLM](https://github.com/mlc-ai/mlc-llm) ⭐ 23,210 | 🐛 349 | 🌐 Python | 📅 2026-10-06 - Compiler and runtime that deploys LLMs natively to GPUs, phones, and browsers via machine learning compilation.
-* [oMLX](https://github.com/jundot/omlx) ⭐ 22,586 | 🐛 1,285 | 🌐 Python | 📅 2026-10-06 - macOS-native MLX inference server with paged SSD KV caching and continuous batching. Serves LLM, VLM, embedding, and reranker models over OpenAI- and Anthropic-compatible endpoints for local coding agents on Apple Silicon.
-* [KTransformers](https://github.com/kvcache-ai/ktransformers) ⭐ 19,569 | 🐛 513 | 🌐 Python | 📅 2026-10-01 - Optimized framework for running very large MoE models on limited hardware via GPU/CPU offloading and kernel injection.
+* [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 130,614 | 🐛 2,495 | 🌐 C++ | 📅 2026-10-08 - Portable, CPU/GPU-friendly LLM inference, good for GPU + CPU hybrid inference.
+* [vLLM](https://github.com/vllm-project/vllm) ⭐ 93,345 | 🐛 8,564 | 🌐 Python | 📅 2026-10-08 - High-throughput, low-latency inference engine for LLMs.
+* [Cherry Studio](https://github.com/CherryHQ/cherry-studio) ⭐ 52,420 | 🐛 1,747 | 🌐 TypeScript | 📅 2026-10-08 - Powerful and customizable cross-platform desktop app for LLM inference with built in web search, RAG, MCP support, and a quick assistant hotkey to summon your LLM from anywhere. Supports a wide variety of providers and OpenAI compatible endpoints for local inference.
+* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 49,424 | 🐛 178 | 🌐 Go | 📅 2026-10-08 - Drop-in OpenAI-compatible API for local inference across text, image, audio, and embedding models, with no GPU required.
+* [exo](https://github.com/exo-explore/exo) ⭐ 47,777 | 🐛 450 | 🌐 Python | 📅 2026-10-06 - Run your own AI cluster at home with everyday devices. Dynamic model partitioning across multiple devices like iPhones, Macs, and Linux machines.
+* [sglang](https://github.com/sgl-project/sglang) ⭐ 36,842 | 🐛 5,595 | 🌐 Python | 📅 2026-10-08 - Fast serving engine for LLMs and vision-language models, with RadixAttention prefix caching and a structured generation language.
+* [llamafile](https://github.com/Mozilla-Ocho/llamafile) ⭐ 26,194 | 🐛 215 | 🌐 C++ | 📅 2026-10-07 - Distribute and run an entire LLM as a single executable file that works across six operating systems, with no install step.
+* [MLC LLM](https://github.com/mlc-ai/mlc-llm) ⭐ 23,211 | 🐛 349 | 🌐 Python | 📅 2026-10-06 - Compiler and runtime that deploys LLMs natively to GPUs, phones, and browsers via machine learning compilation.
+* [oMLX](https://github.com/jundot/omlx) ⭐ 22,616 | 🐛 619 | 🌐 Python | 📅 2026-10-07 - macOS-native MLX inference server with paged SSD KV caching and continuous batching. Serves LLM, VLM, embedding, and reranker models over OpenAI- and Anthropic-compatible endpoints for local coding agents on Apple Silicon.
+* [KTransformers](https://github.com/kvcache-ai/ktransformers) ⭐ 19,570 | 🐛 519 | 🌐 Python | 📅 2026-10-01 - Optimized framework for running very large MoE models on limited hardware via GPU/CPU offloading and kernel injection.
 * [text-generation-inference](https://github.com/huggingface/text-generation-inference) ⚠️ Archived - Optimized serving stack from Hugging Face.
-* [mlx-lm](https://github.com/ml-explore/mlx-lm) ⭐ 7,235 | 🐛 228 | 🌐 Python | 📅 2026-10-06 - Fast, Apple Silicon-optimized LLM inference engine for running models locally and privately.
-* [llama-swap](https://github.com/mostlygeek/llama-swap) ⭐ 5,873 | 🐛 100 | 🌐 Go | 📅 2026-10-05 - Model swapping for llama.cpp (or any local OpenAPI compatible server).
-* [ik\_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) ⭐ 3,282 | 🐛 114 | 🌐 C++ | 📅 2026-10-06 - Fork of llama.cpp with bleeding edge feature implementations and quantization improvements.
-* [RamaLama](https://github.com/containers/ramalama) ⭐ 3,073 | 🐛 121 | 🌐 Python | 📅 2026-10-05 - Runs models as OCI containers, pulling from registries you control — a good fit for air-gapped and enterprise workflows.
-* [exllama3](https://github.com/turboderp-org/exllamav3) ⭐ 1,598 | 🐛 78 | 🌐 Python | 📅 2026-10-06 - An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs. Use TabbyAPI for an API server.
-* [tabbyAPI](https://github.com/theroyallab/tabbyAPI) ⭐ 1,456 | 🐛 39 | 🌐 Python | 📅 2026-10-06 - Official API server for running exllamav2 and exllamav3 models. Aims to be a friendly backend with high customizablity and an idiotmatic OAI compatible API for users.
+* [mlx-lm](https://github.com/ml-explore/mlx-lm) ⭐ 7,246 | 🐛 225 | 🌐 Python | 📅 2026-10-07 - Fast, Apple Silicon-optimized LLM inference engine for running models locally and privately.
+* [llama-swap](https://github.com/mostlygeek/llama-swap) ⭐ 5,887 | 🐛 101 | 🌐 Go | 📅 2026-10-07 - Model swapping for llama.cpp (or any local OpenAPI compatible server).
+* [ik\_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) ⭐ 3,284 | 🐛 111 | 🌐 C++ | 📅 2026-10-07 - Fork of llama.cpp with bleeding edge feature implementations and quantization improvements.
+* [RamaLama](https://github.com/containers/ramalama) ⭐ 3,074 | 🐛 121 | 🌐 Python | 📅 2026-10-05 - Runs models as OCI containers, pulling from registries you control — a good fit for air-gapped and enterprise workflows.
+* [exllama3](https://github.com/turboderp-org/exllamav3) ⭐ 1,610 | 🐛 81 | 🌐 Python | 📅 2026-10-07 - An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs. Use TabbyAPI for an API server.
+* [tabbyAPI](https://github.com/theroyallab/tabbyAPI) ⭐ 1,457 | 🐛 40 | 🌐 Python | 📅 2026-10-06 - Official API server for running exllamav2 and exllamav3 models. Aims to be a friendly backend with high customizablity and an idiotmatic OAI compatible API for users.
 * [YALS (Yet another llamacpp server)](https://github.com/theroyallab/YALS) ⭐ 101 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-28 - TabbyAPI's sister project, adapted for llama.cpp and GGUF models. Built from the ground up using libllama instead of wrapping llama-server.
 * [Jan](https://jan.ai/) - Privacy-first, offline AI assistant and LLM runtime for local, secure inference.
 * [LM Studio](https://lmstudio.ai/) - Cross-platform desktop app for running local LLMs with an easy-to-use interface.
@@ -59,11 +59,11 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Tools for hosting, scaling, and versioning AI models privately.
 
-* [Triton Inference Server](https://github.com/triton-inference-server/server) ⭐ 11,046 | 🐛 896 | 🌐 Python | 📅 2026-10-06 - NVIDIA's multi-framework inference server, supporting TensorRT, PyTorch, ONNX, and vLLM backends behind one endpoint.
-* [Xinference](https://github.com/xorbitsai/inference) ⭐ 9,600 | 🐛 33 | 🌐 Python | 📅 2026-10-06 - Serve and manage LLM, embedding, rerank, image, and audio models in one self-hosted cluster with an OpenAI-compatible API.
-* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,782 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - Kubernetes-native model deployment.
-* [vLLM Production Stack](https://github.com/vllm-project/production-stack) ⭐ 2,660 | 🐛 233 | 🌐 Python | 📅 2026-10-06 - End-to-end stack for deploying vLLM in production, including orchestration, monitoring, autoscaling, and best practices for private LLM serving.
-* [OME (Open Model Engine)](https://github.com/sgl-project/ome) ⭐ 513 | 🐛 118 | 🌐 Go | 📅 2026-10-05 - Unified, open-source engine for serving, managing, and scaling LLMs and multimodal models privately. Supports sglang, vLLM, and more.
+* [Triton Inference Server](https://github.com/triton-inference-server/server) ⭐ 11,049 | 🐛 897 | 🌐 Python | 📅 2026-10-08 - NVIDIA's multi-framework inference server, supporting TensorRT, PyTorch, ONNX, and vLLM backends behind one endpoint.
+* [Xinference](https://github.com/xorbitsai/inference) ⭐ 9,601 | 🐛 30 | 🌐 Python | 📅 2026-10-07 - Serve and manage LLM, embedding, rerank, image, and audio models in one self-hosted cluster with an OpenAI-compatible API.
+* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,783 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - Kubernetes-native model deployment.
+* [vLLM Production Stack](https://github.com/vllm-project/production-stack) ⭐ 2,660 | 🐛 230 | 🌐 Python | 📅 2026-10-07 - End-to-end stack for deploying vLLM in production, including orchestration, monitoring, autoscaling, and best practices for private LLM serving.
+* [OME (Open Model Engine)](https://github.com/sgl-project/ome) ⭐ 513 | 🐛 121 | 🌐 Go | 📅 2026-10-07 - Unified, open-source engine for serving, managing, and scaling LLMs and multimodal models privately. Supports sglang, vLLM, and more.
 * [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Scalable Python model serving.
 * [KServe](https://kserve.github.io/website/) - Serverless model inference on Kubernetes.
 * [BentoML](https://www.bentoml.com/) - Model packaging & serving framework.
@@ -72,12 +72,12 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Private workflows for adapting models to your needs.
 
-* [Unsloth](https://github.com/unslothai/unsloth) ⭐ 77,278 | 🐛 878 | 🌐 Python | 📅 2026-10-06 - Fine-tune and reinforcement-train LLMs 2x faster with substantially less VRAM, on a single local GPU.
-* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,334 | 🐛 1,172 | 🌐 Python | 📅 2026-09-28 - Unified fine-tuning for 100+ models with a web UI, covering SFT, DPO, PPO, and reward modelling on your own hardware.
-* [PEFT](https://github.com/huggingface/peft) ⭐ 21,760 | 🐛 111 | 🌐 Python | 📅 2026-10-06 - Parameter-efficient fine-tuning.
-* [TRL](https://github.com/huggingface/trl) ⭐ 19,461 | 🐛 252 | 🌐 Python | 📅 2026-10-06 - Hugging Face's library for SFT, DPO, GRPO, and reward-model training on top of transformers.
-* [ms-swift](https://github.com/modelscope/ms-swift) ⭐ 15,784 | 🐛 584 | 🌐 Python | 📅 2026-10-06 - Training and deployment toolkit covering 500+ LLMs and 200+ multimodal models, from PEFT through to quantized export.
-* [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) ⭐ 12,526 | 🐛 244 | 🌐 Python | 📅 2026-10-06 - YAML-driven post-training framework covering full fine-tunes, LoRA, QLoRA, and multi-GPU sharding.
+* [Unsloth](https://github.com/unslothai/unsloth) ⭐ 77,375 | 🐛 886 | 🌐 Python | 📅 2026-10-07 - Fine-tune and reinforcement-train LLMs 2x faster with substantially less VRAM, on a single local GPU.
+* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,349 | 🐛 1,176 | 🌐 Python | 📅 2026-09-28 - Unified fine-tuning for 100+ models with a web UI, covering SFT, DPO, PPO, and reward modelling on your own hardware.
+* [PEFT](https://github.com/huggingface/peft) ⭐ 21,766 | 🐛 110 | 🌐 Python | 📅 2026-10-07 - Parameter-efficient fine-tuning.
+* [TRL](https://github.com/huggingface/trl) ⭐ 19,467 | 🐛 255 | 🌐 Python | 📅 2026-10-07 - Hugging Face's library for SFT, DPO, GRPO, and reward-model training on top of transformers.
+* [ms-swift](https://github.com/modelscope/ms-swift) ⭐ 15,787 | 🐛 575 | 🌐 Python | 📅 2026-10-07 - Training and deployment toolkit covering 500+ LLMs and 200+ multimodal models, from PEFT through to quantized export.
+* [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) ⭐ 12,533 | 🐛 244 | 🌐 Python | 📅 2026-10-08 - YAML-driven post-training framework covering full fine-tunes, LoRA, QLoRA, and multi-GPU sharding.
 * [torchtune](https://github.com/pytorch/torchtune) ⭐ 5,811 | 🐛 464 | 🌐 Python | 📅 2026-09-09 - Native PyTorch library for fine-tuning and experimenting with LLMs, with readable single-file recipes.
 * [LoRA](https://arxiv.org/abs/2106.09685) - Low-rank adaptation technique.
 * [QLoRA](https://arxiv.org/abs/2305.14314) - Memory-efficient LoRA on quantized models.
@@ -86,19 +86,19 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Shrink models to fit the hardware you actually own.
 
-* [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 94 | 🌐 Python | 📅 2026-09-07 - 8-bit and 4-bit quantization primitives that underpin QLoRA and much of the local fine-tuning ecosystem.
-* [llm-compressor](https://github.com/vllm-project/llm-compressor) ⭐ 3,854 | 🐛 104 | 🌐 Python | 📅 2026-10-06 - Apply GPTQ, SmoothQuant, SparseGPT, and FP8/INT4 weight-activation quantization, exporting straight to vLLM.
-* [GPTQModel](https://github.com/ModelCloud/GPTQModel) ⭐ 1,270 | 🐛 44 | 🌐 Python | 📅 2026-10-04 - Actively maintained GPTQ toolkit for producing and running 4-bit quantized models.
+* [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) ⭐ 8,514 | 🐛 95 | 🌐 Python | 📅 2026-09-07 - 8-bit and 4-bit quantization primitives that underpin QLoRA and much of the local fine-tuning ecosystem.
+* [llm-compressor](https://github.com/vllm-project/llm-compressor) ⭐ 3,855 | 🐛 106 | 🌐 Python | 📅 2026-10-07 - Apply GPTQ, SmoothQuant, SparseGPT, and FP8/INT4 weight-activation quantization, exporting straight to vLLM.
+* [GPTQModel](https://github.com/ModelCloud/GPTQModel) ⭐ 1,270 | 🐛 44 | 🌐 Python | 📅 2026-10-07 - Actively maintained GPTQ toolkit for producing and running 4-bit quantized models.
 
 ## Vector Databases & Embeddings
 
 > Private semantic search & retrieval-augmented generation.
 
-* [FAISS](https://github.com/facebookresearch/faiss) ⭐ 41,101 | 🐛 337 | 🌐 C++ | 📅 2026-10-06 - Facebook AI Similarity Search.
-* [Qdrant](https://github.com/qdrant/qdrant) ⭐ 34,952 | 🐛 749 | 🌐 Rust | 📅 2026-10-06 - High-performance Vector Database and Vector Search Engine.
-* [pgvector](https://github.com/pgvector/pgvector) ⭐ 23,258 | 🐛 17 | 🌐 C | 📅 2026-10-06 - Vector similarity search inside PostgreSQL, keeping embeddings in the database you already self-host.
-* [LanceDB](https://github.com/lancedb/lancedb) ⭐ 11,611 | 🐛 736 | 🌐 Rust | 📅 2026-10-06 - Embedded, serverless vector database that stores vectors and metadata as files on your own disk or object store.
-* [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) ⭐ 5,072 | 🐛 214 | 🌐 Rust | 📅 2026-10-06 - Fast local serving for embedding and reranker models, so retrieval never leaves your network.
+* [FAISS](https://github.com/facebookresearch/faiss) ⭐ 41,107 | 🐛 335 | 🌐 C++ | 📅 2026-10-07 - Facebook AI Similarity Search.
+* [Qdrant](https://github.com/qdrant/qdrant) ⭐ 34,967 | 🐛 750 | 🌐 Rust | 📅 2026-10-07 - High-performance Vector Database and Vector Search Engine.
+* [pgvector](https://github.com/pgvector/pgvector) ⭐ 23,265 | 🐛 17 | 🌐 C | 📅 2026-10-07 - Vector similarity search inside PostgreSQL, keeping embeddings in the database you already self-host.
+* [LanceDB](https://github.com/lancedb/lancedb) ⭐ 11,616 | 🐛 744 | 🌐 Rust | 📅 2026-10-07 - Embedded, serverless vector database that stores vectors and metadata as files on your own disk or object store.
+* [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) ⭐ 5,073 | 🐛 214 | 🌐 Rust | 📅 2026-10-06 - Fast local serving for embedding and reranker models, so retrieval never leaves your network.
 * [Milvus](https://milvus.io) - Scalable vector database.
 * [Weaviate](https://weaviate.io) - Open-source semantic search engine.
 * [Chroma](https://www.trychroma.com/) - Local-first vector database.
@@ -107,23 +107,23 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Frameworks for chaining private AI tools & agents.
 
-* [Langflow](https://github.com/langflow-ai/langflow) ⭐ 155,547 | 🐛 1,138 | 🌐 Python | 📅 2026-10-06 - Visual workflow builder for creating and deploying AI-powered agents and workflows with built-in API servers.
-* [MetaGPT](https://github.com/FoundationAgents/MetaGPT) ⭐ 70,759 | 🐛 142 | 🌐 Python | 📅 2026-01-21 - Multi-agent framework for building collaborative AI systems with role-based agents that can work together on complex tasks.
+* [Langflow](https://github.com/langflow-ai/langflow) ⭐ 155,568 | 🐛 1,144 | 🌐 Python | 📅 2026-10-08 - Visual workflow builder for creating and deploying AI-powered agents and workflows with built-in API servers.
+* [MetaGPT](https://github.com/FoundationAgents/MetaGPT) ⭐ 70,768 | 🐛 142 | 🌐 Python | 📅 2026-01-21 - Multi-agent framework for building collaborative AI systems with role-based agents that can work together on complex tasks.
 * [Flowise](https://github.com/FlowiseAI/Flowise) ⚠️ Archived - No-code LangChain UI.
-* [Goose](https://github.com/block/goose) ⭐ 55,012 | 🐛 464 | 🌐 Rust | 📅 2026-10-06 - Local, extensible agent that runs on your machine and works against any LLM backend, including Ollama and other self-hosted endpoints.
-* [Aider](https://github.com/Aider-AI/aider) ⭐ 49,398 | 🐛 1,911 | 🌐 Python | 📅 2026-05-22 - Terminal-based pair programming agent that edits code in your local git repo, with support for local models via Ollama and OpenAI-compatible servers.
-* [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38,525 | 🐛 781 | 🌐 Python | 📅 2026-10-05 - Modular, open-source agent framework for building composable, private LLM applications and workflows.
-* [Crush](https://github.com/charmbracelet/crush) ⭐ 28,511 | 🐛 845 | 🌐 Go | 📅 2026-10-06 - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
-* [CUA](https://github.com/trycua/cua) ⭐ 28,458 | 🐛 1,122 | 🌐 Rust | 📅 2026-10-06 -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
-* [PydanticAI](https://github.com/pydantic/pydantic-ai) ⭐ 20,453 | 🐛 1,391 | 🌐 Python | 📅 2026-10-06 - Python agent framework by the Pydantic team, model-agnostic with Ollama support for local deployment.
-* [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ⭐ 17,136 | 🐛 565 | 🌐 Python | 📅 2026-03-04 - Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
-* [DeepCode](https://github.com/HKUDS/DeepCode) ⭐ 16,679 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - Open agentic coding framework that turns papers and specs into working code (Paper2Code, Text2Web, Text2Backend), running against local Ollama or vLLM backends.
-* [Trae Agent](https://github.com/bytedance/trae-agent) ⭐ 12,131 | 🐛 204 | 🌐 Python | 📅 2026-02-05 - Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
+* [Goose](https://github.com/block/goose) ⭐ 55,043 | 🐛 471 | 🌐 Rust | 📅 2026-10-08 - Local, extensible agent that runs on your machine and works against any LLM backend, including Ollama and other self-hosted endpoints.
+* [Aider](https://github.com/Aider-AI/aider) ⭐ 49,412 | 🐛 1,912 | 🌐 Python | 📅 2026-05-22 - Terminal-based pair programming agent that edits code in your local git repo, with support for local models via Ollama and OpenAI-compatible servers.
+* [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38,548 | 🐛 780 | 🌐 Python | 📅 2026-10-07 - Modular, open-source agent framework for building composable, private LLM applications and workflows.
+* [CUA](https://github.com/trycua/cua) ⭐ 28,740 | 🐛 1,151 | 🌐 Rust | 📅 2026-10-07 -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
+* [Crush](https://github.com/charmbracelet/crush) ⭐ 28,530 | 🐛 844 | 🌐 Go | 📅 2026-10-07 - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
+* [PydanticAI](https://github.com/pydantic/pydantic-ai) ⭐ 20,471 | 🐛 1,411 | 🌐 Python | 📅 2026-10-07 - Python agent framework by the Pydantic team, model-agnostic with Ollama support for local deployment.
+* [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ⭐ 17,140 | 🐛 566 | 🌐 Python | 📅 2026-03-04 - Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
+* [DeepCode](https://github.com/HKUDS/DeepCode) ⭐ 16,690 | 🐛 22 | 🌐 Python | 📅 2026-09-28 - Open agentic coding framework that turns papers and specs into working code (Paper2Code, Text2Web, Text2Backend), running against local Ollama or vLLM backends.
+* [Trae Agent](https://github.com/bytedance/trae-agent) ⭐ 12,135 | 🐛 204 | 🌐 Python | 📅 2026-02-05 - Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
 * [Bytebot](https://github.com/bytebot-ai/bytebot) ⚠️ Archived - A desktop agent is an AI that has its own computer. Unlike browser-only agents or traditional RPA tools, Bytebot comes with a full virtual desktop.
-* [agentgateway](https://github.com/agentgateway/agentgateway) ⭐ 5,202 | 🐛 307 | 🌐 Rust | 📅 2026-10-06 - Gateway for managing and orchestrating AI agents with support for local deployment.
-* [AG2](https://github.com/ag2ai/ag2) ⭐ 4,978 | 🐛 53 | 🌐 Python | 📅 2026-10-06 - Open-source operating system for agentic AI with native Ollama support for local model deployment and multi-agent collaboration.
-* [Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 2,154 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-03 - Open-source, local-first desktop AI workforce whose Commander coordinates specialist agents through one chat; model calls can use a compatible local endpoint.
-* [Skales](https://github.com/skalesapp/skales) ⭐ 1,940 | 🐛 3 | 📅 2026-09-30 - Source-available (BSL 1.1) local-first desktop AI agent that runs fully on-device, offline via Ollama or with 15+ providers; your files never leave your machine, no cloud required.
+* [agentgateway](https://github.com/agentgateway/agentgateway) ⭐ 5,219 | 🐛 314 | 🌐 Rust | 📅 2026-10-07 - Gateway for managing and orchestrating AI agents with support for local deployment.
+* [AG2](https://github.com/ag2ai/ag2) ⭐ 4,983 | 🐛 48 | 🌐 Python | 📅 2026-10-07 - Open-source operating system for agentic AI with native Ollama support for local model deployment and multi-agent collaboration.
+* [Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 2,154 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-07 - Open-source, local-first desktop AI workforce whose Commander coordinates specialist agents through one chat; model calls can use a compatible local endpoint.
+* [Skales](https://github.com/skalesapp/skales) ⭐ 1,943 | 🐛 3 | 📅 2026-09-30 - Source-available (BSL 1.1) local-first desktop AI agent that runs fully on-device, offline via Ollama or with 15+ providers; your files never leave your machine, no cloud required.
 * [MFS](https://github.com/zilliztech/mfs) ⭐ 150 | 🐛 3 | 🌐 Python | 📅 2026-07-31 - Exposes your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace for agents (`ls`/`cat`/`grep` + semantic search); runs fully local with on-device ONNX embeddings on Milvus, no API key.
 * [LangChain](https://www.langchain.com/) - Agent and LLM orchestration framework.
 * [Haystack](https://haystack.deepset.ai) - End-to-end RAG pipelines.
@@ -135,18 +135,18 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Privacy-first, open-source agentic coding plugins and extensions for VS Code and other editors.
 
-* [cline](https://github.com/cline/cline) ⭐ 69,950 | 🐛 1,613 | 🌐 TypeScript | 📅 2026-10-06 - Privacy-first, open-source agentic coding platform for local AI workflows and automation (VS Code extension).
-* [Continue](https://github.com/continuedev/continue) ⭐ 36,136 | 🐛 830 | 🌐 TypeScript | 📅 2026-10-05 - Open-source autocomplete and chat assistant for VS Code and JetBrains, configurable against Ollama, llama.cpp, vLLM, and other local endpoints.
-* [Tabby](https://github.com/TabbyML/tabby) ⭐ 33,901 | 🐛 341 | 🌐 Rust | 📅 2026-06-30 - Self-hosted AI coding assistant with its own inference server, offering a private alternative to hosted completion services.
+* [cline](https://github.com/cline/cline) ⭐ 69,995 | 🐛 1,620 | 🌐 TypeScript | 📅 2026-10-08 - Privacy-first, open-source agentic coding platform for local AI workflows and automation (VS Code extension).
+* [Continue](https://github.com/continuedev/continue) ⭐ 36,145 | 🐛 835 | 🌐 TypeScript | 📅 2026-10-07 - Open-source autocomplete and chat assistant for VS Code and JetBrains, configurable against Ollama, llama.cpp, vLLM, and other local endpoints.
+* [Tabby](https://github.com/TabbyML/tabby) ⭐ 33,906 | 🐛 341 | 🌐 Rust | 📅 2026-06-30 - Self-hosted AI coding assistant with its own inference server, offering a private alternative to hosted completion services.
 * [Roo Code](https://github.com/RooCodeInc/Roo-Code) ⚠️ Archived - Privacy-first, open-source agentic coding platform for secure, local AI development (VS Code extension).
 
 ## Privacy, Security & Governance
 
 > Keep AI deployments secure and compliant.
 
-* [Presidio](https://github.com/microsoft/presidio) ⭐ 11,196 | 🐛 162 | 🌐 Python | 📅 2026-10-04 - Detect and de-identify PII in text and images before it ever reaches a model.
-* [garak](https://github.com/NVIDIA/garak) ⭐ 9,466 | 🐛 488 | 🌐 Python | 📅 2026-10-02 - LLM vulnerability scanner that probes local models for prompt injection, jailbreaks, and data leakage.
-* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,248 | 🐛 263 | 🌐 Python | 📅 2026-10-06 - Add programmable topical and safety rails to LLM applications, running alongside self-hosted models.
+* [Presidio](https://github.com/microsoft/presidio) ⭐ 11,217 | 🐛 166 | 🌐 Python | 📅 2026-10-04 - Detect and de-identify PII in text and images before it ever reaches a model.
+* [garak](https://github.com/NVIDIA/garak) ⭐ 9,491 | 🐛 479 | 🌐 Python | 📅 2026-10-07 - LLM vulnerability scanner that probes local models for prompt injection, jailbreaks, and data leakage.
+* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,262 | 🐛 261 | 🌐 Python | 📅 2026-10-07 - Add programmable topical and safety rails to LLM applications, running alongside self-hosted models.
 * [LLM Guard](https://github.com/protectai/llm-guard) ⚠️ Archived - Input and output scanning toolkit covering prompt injection, PII, toxicity, and secrets leakage.
 * [Concrete](https://github.com/zama-ai/concrete) ⭐ 1,580 | 🐛 58 | 🌐 C++ | 📅 2025-12-19 - Fully homomorphic encryption for AI.
 * [OpenFL](https://github.com/securefederatedai/openfl) ⭐ 843 | 🐛 82 | 🌐 Python | 📅 2026-08-25 - Federated learning framework.
@@ -157,11 +157,11 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Measure and monitor private deployments without shipping traces to a vendor.
 
-* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 35,443 | 🐛 1,023 | 🌐 TypeScript | 📅 2026-10-06 - Self-hostable LLM observability, tracing, prompt management, and evaluation.
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,763 | 🐛 713 | 🌐 TypeScript | 📅 2026-10-06 - Local-first evaluation and red-teaming for prompts and models, runnable entirely offline in CI.
-* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,663 | 🐛 710 | 🌐 Python | 📅 2026-10-05 - Unit-testing framework for LLM outputs, with metrics that can run against locally hosted judge models.
-* [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,140 | 🐛 1,123 | 🌐 Python | 📅 2026-09-14 - The standard harness for benchmarking language models, supporting local vLLM and Hugging Face backends.
-* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,733 | 🐛 1,091 | 🌐 Python | 📅 2026-10-06 - Self-hosted tracing, evaluation, and experiment tracking for LLM applications.
+* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 35,495 | 🐛 1,010 | 🌐 TypeScript | 📅 2026-10-07 - Self-hostable LLM observability, tracing, prompt management, and evaluation.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,796 | 🐛 716 | 🌐 TypeScript | 📅 2026-10-07 - Local-first evaluation and red-teaming for prompts and models, runnable entirely offline in CI.
+* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,685 | 🐛 709 | 🌐 Python | 📅 2026-10-07 - Unit-testing framework for LLM outputs, with metrics that can run against locally hosted judge models.
+* [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,149 | 🐛 1,130 | 🌐 Python | 📅 2026-09-14 - The standard harness for benchmarking language models, supporting local vLLM and Hugging Face backends.
+* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,744 | 🐛 1,119 | 🌐 Python | 📅 2026-10-08 - Self-hosted tracing, evaluation, and experiment tracking for LLM applications.
 * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 281 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Records an agent at the HTTP boundary and serves the recording back, so a run reproduces with the model server switched off; traces are files in the project and nothing is uploaded.
 
 ## Models for Private Deployment
@@ -183,44 +183,44 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Self-hosted chat & AI frontends.
 
-* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 154,096 | 🐛 275 | 🌐 Python | 📅 2026-10-06 - Commonly recommended Web UI frontend which features built in search, web scrape, RAG, and optional user authentication.
-* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 83,020 | 🐛 1,033 | 🌐 TypeScript | 📅 2026-10-06 - Modern self-hosted chat framework with plugin and multimodal support, deployable in one click against local backends.
-* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,726 | 🐛 847 | 🌐 Python | 📅 2026-08-17 - Long-standing Gradio web UI for local text generation, supporting llama.cpp, ExLlama, and transformers backends.
-* [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 45,341 | 🐛 849 | 🌐 TypeScript | 📅 2026-10-06 - Enhanced web UI for LLMs.
-* [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ 34,146 | 🐛 640 | 🌐 JavaScript | 📅 2026-10-02 - Self-hosted, highly customizable frontend for local models, with extensive character, prompt, and context management.
+* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 154,164 | 🐛 284 | 🌐 Python | 📅 2026-10-07 - Commonly recommended Web UI frontend which features built in search, web scrape, RAG, and optional user authentication.
+* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 83,041 | 🐛 1,032 | 🌐 TypeScript | 📅 2026-10-08 - Modern self-hosted chat framework with plugin and multimodal support, deployable in one click against local backends.
+* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) ⭐ 47,727 | 🐛 847 | 🌐 Python | 📅 2026-08-17 - Long-standing Gradio web UI for local text generation, supporting llama.cpp, ExLlama, and transformers backends.
+* [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 45,379 | 🐛 855 | 🌐 TypeScript | 📅 2026-10-07 - Enhanced web UI for LLMs.
+* [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ 34,188 | 🐛 641 | 🌐 JavaScript | 📅 2026-10-02 - Self-hosted, highly customizable frontend for local models, with extensive character, prompt, and context management.
 * [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,346 | 🐛 244 | 🌐 TypeScript | 📅 2024-08-03 - Open-source ChatGPT clone.
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,837 | 🐛 39 | 🌐 Rust | 📅 2026-10-06 - Source-available screen/audio history with local search and MCP; supports local Whisper transcription and Ollama, while configured cloud AI, transcription, sync, or integrations can send context off-device.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,855 | 🐛 38 | 🌐 Rust | 📅 2026-10-08 - Source-available screen/audio history with local search and MCP; supports local Whisper transcription and Ollama, while configured cloud AI, transcription, sync, or integrations can send context off-device.
 * [AnythingLLM](https://anythingllm.com/) - Full-stack private LLM workspace.
 
 ## Image & Video Generation
 
 > Run diffusion and video models on your own GPUs.
 
-* [AUTOMATIC1111 Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,201 | 🐛 2,511 | 🌐 Python | 📅 2026-03-02 - The most widely deployed self-hosted Stable Diffusion interface, with a large extension ecosystem.
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 136,337 | 🐛 5,068 | 🌐 Python | 📅 2026-10-06 - Node-based interface and backend for diffusion models, running image, video, and audio pipelines entirely locally.
-* [InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,357 | 🐛 359 | 🌐 TypeScript | 📅 2026-10-06 - Professional-grade local generative image toolkit with a unified canvas and workflow editor.
+* [AUTOMATIC1111 Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,210 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02 - The most widely deployed self-hosted Stable Diffusion interface, with a large extension ecosystem.
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 136,492 | 🐛 5,083 | 🌐 Python | 📅 2026-10-08 - Node-based interface and backend for diffusion models, running image, video, and audio pipelines entirely locally.
+* [InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,437 | 🐛 343 | 🌐 TypeScript | 📅 2026-10-07 - Professional-grade local generative image toolkit with a unified canvas and workflow editor.
 
 ## Speech & Audio
 
 > Private speech-to-text and text-to-speech.
 
-* [Whisper](https://github.com/openai/whisper) ⭐ 110,056 | 🐛 164 | 🌐 Python | 📅 2026-08-31 - The original open-weight speech recognition model, runnable fully offline.
-* [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 54,179 | 🐛 351 | 🌐 C++ | 📅 2026-10-06 - C++ port of OpenAI's Whisper automatic speech recognition model, optimized for local, CPU/GPU inference without internet connectivity.
-* [WhisperX](https://github.com/m-bain/whisperX) ⭐ 24,394 | 🐛 232 | 🌐 Python | 📅 2026-09-26 - Whisper with word-level timestamps, speaker diarization, and much faster batched transcription.
-* [F5-TTS](https://github.com/SWivid/F5-TTS) ⭐ 15,346 | 🐛 65 | 🌐 Python | 📅 2026-09-21 - Local text-to-speech with voice cloning from a short reference sample.
-* [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) ⭐ 10,162 | 🐛 148 | 🌐 Python | 📅 2026-09-17 - Low-latency local speech-to-text with voice activity detection, for building private voice interfaces.
-* [speaches](https://github.com/speaches-ai/speaches) ⭐ 3,700 | 🐛 147 | 🌐 Python | 📅 2026-10-05 - Self-hosted OpenAI-compatible server for transcription, translation, and speech generation.
+* [Whisper](https://github.com/openai/whisper) ⭐ 110,115 | 🐛 166 | 🌐 Python | 📅 2026-08-31 - The original open-weight speech recognition model, runnable fully offline.
+* [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 54,207 | 🐛 351 | 🌐 C++ | 📅 2026-10-06 - C++ port of OpenAI's Whisper automatic speech recognition model, optimized for local, CPU/GPU inference without internet connectivity.
+* [WhisperX](https://github.com/m-bain/whisperX) ⭐ 24,412 | 🐛 232 | 🌐 Python | 📅 2026-09-26 - Whisper with word-level timestamps, speaker diarization, and much faster batched transcription.
+* [F5-TTS](https://github.com/SWivid/F5-TTS) ⭐ 15,353 | 🐛 65 | 🌐 Python | 📅 2026-09-21 - Local text-to-speech with voice cloning from a short reference sample.
+* [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) ⭐ 10,164 | 🐛 148 | 🌐 Python | 📅 2026-09-17 - Low-latency local speech-to-text with voice activity detection, for building private voice interfaces.
+* [speaches](https://github.com/speaches-ai/speaches) ⭐ 3,703 | 🐛 147 | 🌐 Python | 📅 2026-10-05 - Self-hosted OpenAI-compatible server for transcription, translation, and speech generation.
 
 ## Datasets & Data Prep
 
 > Create and manage private training corpora.
 
-* [MinerU](https://github.com/opendatalab/MinerU) ⭐ 81,165 | 🐛 133 | 🌐 Python | 📅 2026-10-06 - High-quality PDF-to-Markdown and JSON extraction, including formulas and tables, for building private corpora.
-* [Docling](https://github.com/docling-project/docling) ⭐ 68,465 | 🐛 1,013 | 🌐 Python | 📅 2026-10-06 - Parse PDF, DOCX, PPTX, and HTML into structured formats for RAG and training, running entirely on your own hardware.
-* [Marker](https://github.com/datalab-to/marker) ⭐ 40,225 | 🐛 478 | 🌐 Python | 📅 2026-10-02 - Fast, accurate document-to-Markdown conversion across PDFs, images, and office formats.
-* [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,408 | 🐛 949 | 🌐 TypeScript | 📅 2026-10-06 - Self-hosted data labelling platform for text, image, audio, and video annotation.
-* [Unstructured](https://github.com/Unstructured-IO/unstructured) ⭐ 15,533 | 🐛 334 | 🌐 HTML | 📅 2026-10-06 - Ingestion and preprocessing library for turning messy documents into model-ready chunks.
-* [Argilla](https://github.com/argilla-io/argilla) ⭐ 5,140 | 🐛 35 | 🌐 Python | 📅 2026-10-06 - Collaborative tool for curating, annotating, and quality-checking datasets for fine-tuning and evaluation.
+* [MinerU](https://github.com/opendatalab/MinerU) ⭐ 81,229 | 🐛 133 | 🌐 Python | 📅 2026-10-06 - High-quality PDF-to-Markdown and JSON extraction, including formulas and tables, for building private corpora.
+* [Docling](https://github.com/docling-project/docling) ⭐ 68,504 | 🐛 1,002 | 🌐 Python | 📅 2026-10-07 - Parse PDF, DOCX, PPTX, and HTML into structured formats for RAG and training, running entirely on your own hardware.
+* [Marker](https://github.com/datalab-to/marker) ⭐ 40,243 | 🐛 478 | 🌐 Python | 📅 2026-10-02 - Fast, accurate document-to-Markdown conversion across PDFs, images, and office formats.
+* [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,415 | 🐛 950 | 🌐 TypeScript | 📅 2026-10-08 - Self-hosted data labelling platform for text, image, audio, and video annotation.
+* [Unstructured](https://github.com/Unstructured-IO/unstructured) ⭐ 15,541 | 🐛 335 | 🌐 HTML | 📅 2026-10-07 - Ingestion and preprocessing library for turning messy documents into model-ready chunks.
+* [Argilla](https://github.com/argilla-io/argilla) ⭐ 5,142 | 🐛 35 | 🌐 Python | 📅 2026-10-06 - Collaborative tool for curating, annotating, and quality-checking datasets for fine-tuning and evaluation.
 * [OpenWebText](https://skylion007.github.io/OpenWebTextCorpus/) - Open dataset similar to GPT training data.
 * [RedPajama](https://www.together.xyz/blog/redpajama) - Open LLM training dataset.
 
@@ -228,17 +228,17 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 > Guides, papers, and tutorials on private AI.
 
-* [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 106,137 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-10-02 - Build a GPT-style model step by step in PyTorch, on your own machine.
-* [LLM Course](https://github.com/mlabonne/llm-course) ⭐ 83,310 | 🐛 92 | 📅 2026-02-05 - Roadmap and notebooks covering LLM fundamentals, fine-tuning, quantization, and deployment.
-* [ML Engineering Open Book](https://github.com/stas00/ml-engineering) ⭐ 19,377 | 🐛 1 | 🌐 Python | 📅 2026-10-06 - Field-tested notes on training and serving large models: hardware, parallelism, throughput, and debugging.
-* [Smol Course](https://github.com/huggingface/smol-course) ⭐ 6,765 | 🐛 100 | 🌐 Jupyter Notebook | 📅 2026-10-06 - Hugging Face's practical course on aligning and fine-tuning small models that fit on local hardware.
+* [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 106,188 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-10-02 - Build a GPT-style model step by step in PyTorch, on your own machine.
+* [LLM Course](https://github.com/mlabonne/llm-course) ⭐ 83,324 | 🐛 92 | 📅 2026-02-05 - Roadmap and notebooks covering LLM fundamentals, fine-tuning, quantization, and deployment.
+* [ML Engineering Open Book](https://github.com/stas00/ml-engineering) ⭐ 19,405 | 🐛 1 | 🌐 Python | 📅 2026-10-07 - Field-tested notes on training and serving large models: hardware, parallelism, throughput, and debugging.
+* [Smol Course](https://github.com/huggingface/smol-course) ⭐ 6,766 | 🐛 100 | 🌐 Jupyter Notebook | 📅 2026-10-06 - Hugging Face's practical course on aligning and fine-tuning small models that fit on local hardware.
 
 ## AI Routers & API Aggregators
 
 > Centralized routers and proxy layers for aggregating, governing, and securing your private AI stack. These tools simplify connections to multiple model servers, optimize LLM routing, and provide observability, security, and compliance.
 
-* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 60,243 | 🐛 5,248 | 🌐 Python | 📅 2026-10-06 - Self-hosted proxy exposing 100+ model backends — including Ollama, vLLM, and any OpenAI-compatible server — behind one API, with keys, budgets, routing, and logging.
-* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 8,586 | 🐛 1,184 | 🌐 Go | 📅 2026-10-06 - Self-hosted, open-source AI gateway for multi-provider routing, failover, observability, guardrails, and budget controls.
+* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 60,304 | 🐛 5,281 | 🌐 Python | 📅 2026-10-08 - Self-hosted proxy exposing 100+ model backends — including Ollama, vLLM, and any OpenAI-compatible server — behind one API, with keys, budgets, routing, and logging.
+* [Bifrost](https://github.com/maximhq/bifrost) ⭐ 8,613 | 🐛 1,185 | 🌐 Go | 📅 2026-10-07 - Self-hosted, open-source AI gateway for multi-provider routing, failover, observability, guardrails, and budget controls.
 * [Nexus](https://github.com/grafbase/nexus) ⭐ 436 | 🐛 28 | 🌐 Rust | 📅 2026-03-16 - Open-source AI router to aggregate Model Context Protocol (MCP) servers, intelligently route requests to the best LLMs, and provide security, governance, observability, and simplified architecture for private AI deployments. [Blog](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)
 
 ## Contributing
@@ -251,4 +251,4 @@ Under CC0-1.0 license. see [LICENSE](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
